@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 comany_name=123
+=======
+comany_name=1234
+>>>>>>> newarchibranch
